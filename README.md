@@ -34,8 +34,7 @@ At its core, ft_transcendence is a real-time Pong game hosted on a web applicati
 - **Browser Compatibility:** Works on latest stable Google Chrome
 
 <p align="center">
-  <img src="./images/login.png" width="50%"/>
-  <img src="./images/home.png" width="50%"/>
+  <img src="./images/login.png"/>
 </p>
 
 ## 📦 Modules
@@ -47,6 +46,10 @@ At its core, ft_transcendence is a real-time Pong game hosted on a web applicati
 - **DevOps:** Monitoring (Grafana/Prometheus), logs (ELK stack), microservices
 - **Graphics:** Advanced 3D rendering with Three.js
 - **Accessibility:** Multi-language support, responsive design, screen reader support
+
+<p align="center">
+  <img src="./images/home.png"/>
+</p>
 
 ## 🚀 Getting Started
 
