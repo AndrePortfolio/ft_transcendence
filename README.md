@@ -6,8 +6,6 @@
   <img src="./images/pong.webp"/>
 </p>
 
-> 🔥 "Surprise. Do something you've never done before. Time to shine!"
-
 ## 🌐 Project Overview
 
 At its core, ft_transcendence is a real-time Pong game hosted on a web application. Beyond just Pong, the platform includes authentication, user management, multiplayer support, matchmaking, live chat, and robust security—all packaged in a fully containerized deployment.
