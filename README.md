@@ -3,7 +3,7 @@
 **ft_transcendence** is the final and most comprehensive project at 42, designed to showcase everything you've learned—from full-stack development to security, real-time systems, and DevOps. The goal is to build a complete, secure, and interactive Pong-based web platform that supports online multiplayer games, tournaments, user profiles, chat systems, and much more.
 
 <p align="center">
-  <img src="./images/video1.webm" width="45%" />
+  <img src="./images/pong.webp" width="45%" />
   <img src="./images/video2.webm" width="45%" />
 </p>
 
