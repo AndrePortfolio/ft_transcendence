@@ -21,6 +21,11 @@ At its core, ft_transcendence is a real-time Pong game hosted on a web applicati
 - 🛡️ Protection against XSS, SQL Injection, and other vulnerabilities
 - 🔑 Password hashing with secure algorithms
 
+<p align="center">
+  <img src="./images/pong-ai.webp"/>
+</p>
+
+
 ## 🔧 Technical Constraints
 
 - **Frontend:** Vanilla JavaScript / CSS / HTML
