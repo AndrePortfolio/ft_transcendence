@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="./images/pong.webp" width="45%" />
-  <img src="./images/video2.webm" width="45%" />
 </p>
 
 > 🔥 "Surprise. Do something you've never done before. Time to shine!"
