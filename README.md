@@ -25,7 +25,6 @@ At its core, ft_transcendence is a real-time Pong game hosted on a web applicati
   <img src="./images/pong-ai.webp"/>
 </p>
 
-
 ## 🔧 Technical Constraints
 
 - **Frontend:** Vanilla JavaScript / CSS / HTML
@@ -33,6 +32,10 @@ At its core, ft_transcendence is a real-time Pong game hosted on a web applicati
 - **Database:** PostgreSQL
 - **SPA Requirement:** Supports browser navigation (back/forward)
 - **Browser Compatibility:** Works on latest stable Google Chrome
+
+<p align="center">
+  <img src="./images/home.webp"/>
+</p>
 
 ## 📦 Modules
 
